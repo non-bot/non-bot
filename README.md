@@ -42,12 +42,12 @@
 
 <div align="center">
 
-<div style="background:#0d1117; padding:15px; border-radius:10px; color:#c9d1d9; margin-bottom:10px;">
+<div style="background:#0d1117; padding:15px; border-radius:10px; color:#c9d1d9; margin-bottom:10px; width:80%; text-align:left;">
   <i>“Strong minds discuss ideas, average minds discuss events, weak minds discuss people.”</i><br>
   <span style="color:#8b949e; display:block; text-align:right;">- Socrates -</span>
 </div>
 
-<div style="background:#0d1117; padding:15px; border-radius:10px; color:#c9d1d9;">
+<div style="background:#0d1117; padding:15px; border-radius:10px; color:#c9d1d9; width:80%; text-align:left;">
   <i>“Wonder is the beginning of wisdom.”</i><br>
   <span style="color:#8b949e; display:block; text-align:right;">- Socrates -</span>
 </div>
