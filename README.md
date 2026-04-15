@@ -39,6 +39,7 @@
 ---
 
 ### ✍️ Random Dev Quote
+
 <div align="center">
 
 <div style="background:#0d1117; padding:15px; border-radius:10px; color:#c9d1d9; margin-bottom:10px;">
