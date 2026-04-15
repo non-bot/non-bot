@@ -41,15 +41,15 @@
 ### ✍️ Random Dev Quote
 <div align="center">
 
-![ ](https://img.shields.io/badge/-Strong%20minds%20discuss%20ideas%2C%20average%20minds%20discuss%20events%2C%20weak%20minds%20discuss%20people.-black?style=flat)
+<div style="background:#0d1117; padding:15px; border-radius:10px; color:#c9d1d9; margin-bottom:10px;">
+  <i>“Strong minds discuss ideas, average minds discuss events, weak minds discuss people.”</i><br>
+  <span style="color:#8b949e;">- Socrates -</span>
+</div>
 
-![ ](https://img.shields.io/badge/---%20Socrates-lightgrey?style=flat)
-
-<br>
-
-![ ](https://img.shields.io/badge/-Wonder%20is%20the%20beginning%20of%20wisdom.-black?style=flat)
-
-![ ](https://img.shields.io/badge/---%20Socrates-lightgrey?style=flat)
+<div style="background:#0d1117; padding:15px; border-radius:10px; color:#c9d1d9;">
+  <i>“Wonder is the beginning of wisdom.”</i><br>
+  <span style="color:#8b949e;">- Socrates -</span>
+</div>
 
 </div>
 
