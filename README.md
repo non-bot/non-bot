@@ -41,24 +41,24 @@
 ### ✍️ Random Dev Quote
 
 <div style="width:80%; max-width:700px; margin:0 auto; background:#0d1117; padding:15px; border-radius:10px; color:#c9d1d9; margin-bottom:10px;">
-  <p>
+  <div>
     <p align="center">
       <i>“Strong minds discuss ideas, average minds discuss events, weak minds discuss people.”</i>
     </p>
   
-  <p align="right" style="color:#8b949e; padding-right:20%">
+    <p align="right" style="color:#8b949e; padding-right:20%">
       - Socrates -
     </p>
-  </p>
-  <p>
+  </div>
+  <div>
     <p align="center">
-    <i>“Wonder is the beginning of wisdom.”</i>
-  </p>
+      <i>“Wonder is the beginning of wisdom.”</i>
+    </p>
 
-  <p align="right" style="color:#8b949e; padding-rigth:20%">
-    - Socrates -
-  </p>
-  </p>
+    <p align="right" style="color:#8b949e; padding-rigth:20%">
+      - Socrates -
+    </p>
+  </div>
   
 </div>
 
