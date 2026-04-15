@@ -41,7 +41,9 @@
 ### ✍️ Random Dev Quote
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Quote1](https://img.shields.io/badge/Quote-Strong%20minds%20discuss%20ideas%2C%20average%20minds%20discuss%20events%2C%20weak%20minds%20discuss%20people.%20%E2%80%94%20Socrates-blue?style=for-the-badge)
+
+![Quote2](https://img.shields.io/badge/Quote-Wonder%20is%20the%20beginning%20of%20wisdom.%20%E2%80%94%20Socrates-green?style=for-the-badge)
 
 </div>
 
