@@ -46,7 +46,7 @@
       <i>“Strong minds discuss ideas, average minds discuss events, weak minds discuss people.”</i>
     </p>
   
-    <p align="right" style="color:#8b949e; padding-right:20%">
+  <p align="right" style="color:#8b949e; padding-right:20%">
       - Socrates -
     </p>
   </div>
@@ -55,7 +55,7 @@
       <i>“Wonder is the beginning of wisdom.”</i>
     </p>
 
-    <p align="right" style="color:#8b949e; padding-rigth:20%">
+  <p align="right" style="color:#8b949e; padding-rigth:20%">
       - Socrates -
     </p>
   </div>
