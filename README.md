@@ -38,7 +38,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 
 <div style="width:80%; max-width:700px; margin:0 auto; background:#0d1117; padding:15px; border-radius:10px; color:#c9d1d9; margin-bottom:10px;">
   <div>
